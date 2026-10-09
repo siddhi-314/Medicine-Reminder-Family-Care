@@ -1,0 +1,7 @@
+{
+  "name": "medicine-reminder-family-care",
+  "version": "1.0.0",
+  "description": "Medicine Reminder and Family Care project with Node.js backend and editable dashboard",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
